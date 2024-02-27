@@ -30,6 +30,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 <img src="https://images.pexels.com/photos/7254462/pexels-photo-7254462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="imagem ilustrativa">
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
