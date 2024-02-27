@@ -1,4 +1,7 @@
-# CNC Writematic
+# CNC Writematic 
+<img width="50" src="Logo\write.png">  <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
 
 O CNC Writematic é um sistema de controle numérico computadorizado (CNC) para máquinas de escrever, que permite a escrita e desenho automatizados. Este projeto visa modernizar máquinas de escrever tradicionais, combinando a precisão mecânica das máquinas de escrever com a eficiência e versatilidade dos sistemas digitais.
 
@@ -25,6 +28,5 @@ O CNC Writematic é um sistema de controle numérico computadorizado (CNC) para 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
 
-## Licença
+<img src="https://images.pexels.com/photos/7254462/pexels-photo-7254462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="imagem ilustrativa">
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
